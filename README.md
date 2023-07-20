@@ -26,3 +26,14 @@ images  are taken from DIP book
 1. Affine Transformation
 1. Perspective Transformation
 1.  Perspective
+1. Image Histograms and Equalization
+1. Histogram Calculation
+1. Histogram Equalization
+1. Histogram Matching
+1. Template Matching
+1. Template Matching Basics
+1. Various Matching Methods (Correlation Coefficient, Squared Difference, etc.)
+1. Video Processing
+1. Video Reading and Displaying
+1. Video Properties and Frame Count
+1. Video Writer
